@@ -703,7 +703,7 @@
 
 	<profiles>
 		<!-- ************************************************************ -->
-		<!-- Profiles to manage target-platform and 3rd pary dependencies -->
+		<!-- Profiles to manage target-platform and 3rd party dependencies -->
 		<!-- ************************************************************ -->
 
 		<!-- enable actual using a target platform, can simply be disable with -Dno-target-platform -->
